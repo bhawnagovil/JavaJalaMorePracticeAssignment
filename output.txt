@@ -1,0 +1,9 @@
+writing to a file
+ another line
+Bhawna
+Shalu
+Bhalu
+1
+2
+3
+4
